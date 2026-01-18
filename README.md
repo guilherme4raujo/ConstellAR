@@ -7,9 +7,6 @@ Aplicativo mobile (Android) em Realidade Aumentada (AR) construído no **Unity**
 - Ao toque do usuário, posicionar um conteúdo virtual na cena;
 - Exibir “marcadores” (esferas) e um texto informativo sobre a constelação de **Órion**.
 
-> Este repositório contém o **projeto Unity completo** (com scripts, Assets e configurações do projeto), além do **passo a passo** de configuração, build e testes.
-
----
 
 ## 1) Objetivo do Projeto
 
