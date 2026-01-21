@@ -1,0 +1,1 @@
+C:\Users\Pc\Documents\UnityProject\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1w4s112u\obj\armeabi-v7a
